@@ -1,2 +1,2 @@
-# OnlineOJbyCPP
-在线oj,cpp项目工程
+# OnlineOJ
+OJ system  Asia Regional Jamboree
